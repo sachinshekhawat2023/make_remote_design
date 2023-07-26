@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+}
+
+h2 {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+}
+
+body {
+  background-color: aquamarine;
+  background-image: url(./kedarnath-hd-wallpaper-for-android-and-ios-devices.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button {
+  color: rgba(13, 224, 76, 0.842);
+  width: 100px;
+  height: 50px;
+  background-color: black;
+}
